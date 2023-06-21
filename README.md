@@ -42,6 +42,8 @@ $ npm run dev
 Application will run at http://localhost:5000
 ```
 front-end part 
+
+```
 $ cd client
 $ npm install
 $ npm start
