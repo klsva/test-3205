@@ -51,8 +51,8 @@ $ npm start
 Application will run at http://localhost:3000
 
 ### Scripts
-npm run dev - start application in dev mode
-npm start - start application in dev mode
+* npm run dev - start application in dev mode
+* npm start - start application in dev mode
 
 ### TODO:
 * add tests
